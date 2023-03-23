@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "APPEstimation"]
+	path = APPEstimation
+	url = https://github.com/cran/APPEstimation
+	shallow = true
+	registered = true
+[submodule "nricens"]
+	path = nricens
+	url = https://github.com/cran/nricens
+	shallow = true
+	registered = true
